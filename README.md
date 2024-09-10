@@ -15,5 +15,7 @@ Production Date: 9/10/2024
 Notes:
 
 8/13/2024 --- updated with Audit Template
+
 9/9/2024 - updated the code to account for shared instances
+
 9/10/2024 - updated the code to account for hosted services. Also changed the url input
