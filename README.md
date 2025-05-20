@@ -8,9 +8,9 @@ Purpose: You supply the Server URL and the Administrator Account User and Passwo
 
 Authored by: Brandon Longenberger & Joe Guzi
 
-Previous Production Date: 9/9/2024
+Previous Production Date: 9/10/2024
 
-Production Date: 9/10/2024
+Production Date: 3/12/2025
 
 Notes:
 
@@ -19,3 +19,5 @@ Notes:
 9/9/2024 - updated the code to account for shared instances
 
 9/10/2024 - updated the code to account for hosted services. Also changed the url input
+
+3/12/2025 --- Updated for the ArcGIS Python API version 2.4 update
